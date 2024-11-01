@@ -1,0 +1,11 @@
+{
+  "name": "express_microservices",
+  "version": "1.0.0",
+  "description": "Micro services example in ExpressJs",
+  "main": "userService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
